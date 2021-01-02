@@ -1,6 +1,6 @@
 const 
     button = document.querySelector('button'),
-    toggleButton = document.querySelector('.toggle-button'),
+    toggleButton = document.querySelector('div'),
     html = document.querySelector('html')
 
 const changeIcon = icon => 
